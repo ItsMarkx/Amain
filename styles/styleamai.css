@@ -7,8 +7,8 @@ body, html {
     overflow: hidden; /* Esto elimina el scroll */
 }
 .centrar {
-    max-width: 150%;
-    max-height: 150%;
+    width: 684px;
+    height: 606px;
     object-fit: contain; /* Hace que la imagen se ajuste manteniendo su aspecto */
 }
 
